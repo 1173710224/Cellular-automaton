@@ -1,0 +1,5 @@
+run time:1200* 1.5s
+cell number:235
+lane number:6
+sdv percentage:1.0
+traffic flow:172654.42291491153
